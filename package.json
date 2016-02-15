@@ -4,5 +4,8 @@
     "keywords": ["util", "functional", "server", "client", "browser"],
     "author": "Tobias",
     "contributors": [],
-    "dependencies": {}
+    "dependencies": {
+        "bl": "",
+        "through2-map": ""
+    }
 }
